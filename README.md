@@ -1,4 +1,4 @@
-#Perlin Noise Terrain Generator
+# Perlin Noise Terrain Generator
 
 ![Terrain](docs/demo.png)
 
@@ -12,4 +12,7 @@ git clone https://github.com/leeleegabriel/perlin-noise-terrain-generator.git
 
 cd perlin-noise-terrain-generator
 ./install.sh
+reboot
 ```
+
+Will sketch on boot
