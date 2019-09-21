@@ -20,11 +20,11 @@ Will sketch on boot
 
 ### Resources
 
-Inspired by this post: https://www.reddit.com/r/DidntKnowIWantedThat/comments/cucjti/coded_and_designed_to_sit_on_my_desk_and_remind/
+Inspired by this [post](https://www.reddit.com/r/DidntKnowIWantedThat/comments/cucjti/coded_and_designed_to_sit_on_my_desk_and_remind/)
 
-Who Copied this guy's code: https://www.youtube.com/watch?v=IKB1hWWedMk
+Who copied this guy's [code](https://www.youtube.com/watch?v=IKB1hWWedMk)
 
 ### TODO
 
-Implement Rotary Encoder input
-3d Printed case
++ Implement Rotary Encoder input
++ 3d Printed case
